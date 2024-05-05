@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Jogo da Velha</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    
+    <link  rel="stylesheet"    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link rel="stylesheet" href="css/index.css">
+  </head>
+<body>
+   
+  <div class="container-fluid">
+
+    <audio src="" controls="">
+
+          <source src="" type=""> 
+
+    </audio>
+
+      <div class="row hidden-xs logo">
+        <div class="col-md-12">
+          <center>
+
+            <img class="animate__animated animate__bounce" src="imgs/logo4.png" alt="">
+            
+ 
+           </center>
+ 
+        </div>
+      </div>
+             <br><br><br><br><br><br><br><br>
+             
+      <div class="row visible-xs-block">
+
+        <div class="col-md-12">
+          <center>
+
+            <img class="animate__animated animate__bounce" src="imgs/logo4.png" alt="">
+      
+    
+          </center>
+        </div> 
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-md-12">
+
+        
+           <center>
+
+          <div class="btn-group" role="group" aria-label="...">
+              
+              <center>
+            
+
+              <a href="jogo.html" class="btn btn-danger link-effect">Iniciar</a>
+              <br><br><br>
+              <a href="creditos.html" class="btn btn-danger link-effect">Créditos</a>
+              <br><br><br>
+              <button type="button" class="btn btn-danger">Sair</button>
+              <br><br><br>
+
+              </center> 
+
+          </div>
+        </div>
+
+     </div>
+
+     <div class="row">
+
+      <div class="col-md-6">
+        <br><br><br><br>
+         <h5 style="color: white;">Desenvolvido por Gabriel Bergamini 2F</h5>
+         
+      </div>
+
+    </div>
+
+  </div>
+
+
+ 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+ 
+   <script>
+
+     $(document).ready(function() {
+
+      $(".link-effect").on("mouseenter", function() {
+
+        houverElem = this;
+        $(this).addClass("animate_animated animate__rubberBand")
+
+
+      });
+      $(window).keypress(function(){
+
+        $(".logo").hide();
+
+      });
+      $(window).keyup(function(){
+        $(".logo").show();
+      });
+
+
+      $(window).keydown(function(e){
+        tecla = e.which;
+        if(tecla == 13){
+          window.location.href = "creditos.html";
+          alert('Você apertou o ENTER!');
+        
+        }
+      
+        if(tecla == 83){  
+          alert("Você apertou a tecla S");
+
+        }
+
+      });
+
+     });
+
+    
+
+   </script>
+
+</body>
+</html>

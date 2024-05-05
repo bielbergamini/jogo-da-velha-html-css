@@ -1,0 +1,134 @@
+  <div class="row">
+
+            <center>
+                <h1 class="text-uppercase titulo"><strong>Armas</strong></h1>
+            </center>
+
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/eleonora.png">
+                    <div class="caption">
+                        <h3>Machados </h3>
+                        <p>Machados é um grupo de armas concebido para ser utilizado em uma mão, onde o portador coloca todo seu esforço através de ataques contundentes individuais. A maioria dos ataques do machado tem grande e amplo arco horizontal, tornando-os muito eficaz em lidar ou evitar adversários ou grupos de inimigos.</p>
+                        <p><a href="https://darksouls.fandom.com/pt-br/wiki/Battle_Axe" class="btn btn-danger" role="button"><span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span> Ver</a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="https://darksouls3-pt.wiki.fextralife.com/file/Dark-Souls-3/bastard_sword.png">
+                    <div class="caption">
+                        <h3>Espadas Grandes</h3>
+                        <p>Espadas Grandes continuam o processo de evolução natural das Adagas para Espadas Retas, ao sacrificar velocidade para ganhar mais força⠀⠀⠀⠀ de ataque. Devido ao esforço e força utilizados para cada golpe desse tipo de arma, a velocidade do ataque é muito menor que armas menores, eles não são bons para jogadores que tentam causar danos críticos.</p>
+                        <p><a href="https://darksouls.fandom.com/pt-br/wiki/Espadas_Grandes" class="btn btn-danger" role="button"><span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span> Ver</a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dragonrider_bow.png">
+                    <div class="caption">
+                        <h3>Arcos </h3>
+                        <p>Arcos são as únicas armas de longo alcance no jogo que permitem o controle direto sobre a pontaria.Isso pode permitir muito maior precisão do que confiar no sistema de lock-on.Com um arco equipado, pressione uma das mãos apropriadas com o botão de ataque fraco, o botão de mudança de postura para segurar o arco com as duas mãos.</p>
+                        <p><a href="https://darksouls.fandom.com/pt-br/wiki/Arcos" class="btn btn-danger" role="button"><span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span> Ver</a></p>
+                    </div>
+                </div>
+            </div>
+
+
+           
+                
+            <div class="col-md-offset-2 col-md-8">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/ledo's_great_hammer.png">
+                    <div class="caption">
+                        <h3>Martelos Grandes</h3>
+                        <p>Todos os Martelos grandes são armas do tipo strike. Eles estão entre as maiores armas, e assim seus ataques são extremamente poderosos,mas lento. Isto também significa que eles produzem grandes quantidades de dano e têm bom poder de atordoamento. </p>
+                        <p><a href="https://darksouls.fandom.com/pt-br/wiki/Martelos_Grandes" class="btn btn-danger" role="button"><span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span> Ver</a></p>
+                    </div>
+                </div>
+            </div>
+            
+
+        </div>
+
+ coisas
+
+ link?
+ <div class="row visible-xs-block">
+
+    <div class="col-md-12 " >
+
+      <center>
+
+        <img src="https://play-lh.googleusercontent.com/7ap-izZmxviC_4cMVyuSsX946MdM1fs_vwNjTuDb30Q7jM4NigmZ2SRVJDp1l1IiE5g" alt="">
+  
+
+      </center>
+
+    </div>
+  </div>
+
+ img
+ <div class="container-fluid">
+
+    <div class="row hidden-xs">
+      <div class="row">
+
+        
+        <div class="col-md-12">
+
+          <center>
+
+           <img src="imgs/logo.png" alt="">
+           <br><br><br><br><br>
+
+          </center>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    botao
+    <div class="row">
+
+        <div class="col-md-12">
+
+        
+           <center>
+
+          <div class="btn-group" role="group" aria-label="...">
+              
+              <center>
+            
+              <button type="button" class="btn btn-danger">Novo Jogo</button>
+              <br><br><br><br>
+              <button type="button" class="btn btn-primary">Créditos</button>
+              <br><br><br><br>
+              <button type="button" class="btn btn-warning">Sair</button>
+              <br><br><br><br><br><br><br><br>
+
+              </center> 
+
+          </div>
+        </div>
+
+    </div>
+
+    final
+           
+    <div class="row">
+
+        <div class="col-md-6">
+
+           <h5 style="color: white;">Desenvolvido por Ian Pablo 2F</h5>
+           
+        </div>
+
+      </div>
+
+  </div>

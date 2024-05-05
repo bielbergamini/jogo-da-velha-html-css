@@ -1,0 +1,38 @@
+#mostrador{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: blue;
+
+}
+
+.rodape{
+    padding-top: 30px;
+
+}
+
+.espaco{
+    width: 120px;
+    height: 110px;
+    margin: 0 0;
+    border: 2px solid white;
+    text-align: center;
+
+}
+
+.tabuleiro{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 360px;
+    height: 330px;
+    margin: 0 auto;
+    background-color:rgba(241, 18, 18, 0.678);
+
+}
+
+#a1, #a3, #b2, #c1, #c3{
+
+    background-color: rgba(243, 84, 11, 0.733);
+
+}
